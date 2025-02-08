@@ -19,11 +19,7 @@ ARIMA & LSTM Forecasting: Predicts future stock returns based on historical tren
 portfolio-optimization-forecasting/
 │── README.md  # Project Documentation  
 │── Project-code.ipynb  # Jupyter Notebook with full analysis  
-│── Project Report.pdf  # Detailed report on methodologies & results  
-│── data/  # (Optional) Folder for datasets  
-│── results/  # (Optional) Output plots & visualizations  
-│── LICENSE  # (Optional) Open-source license  
-
+│── Project Report.pdf  # Detailed report on methodologies & results   
 
 🛠️ Technologies & Libraries Used
 
