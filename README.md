@@ -2,6 +2,7 @@
 This project focuses on portfolio optimization using Mean-Variance, Black-Litterman models, Monte Carlo simulations, and ARIMA/LSTM forecasting to enhance investment strategies. Implemented in Python &amp; Quarto, it improved risk-adjusted returns by 15% over benchmark performance.
 
 📌 Overview
+
 This project explores portfolio optimization and return forecasting using financial models. It applies Mean-Variance Optimization, Black-Litterman Model, Monte Carlo Simulations, and Risk Parity to optimize asset allocation. Additionally, ARIMA and LSTM models are used for stock return forecasting.
 
 📊 Key Results
