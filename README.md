@@ -35,9 +35,11 @@ Monte Carlo Simulation & Risk Models: Pyswarms, YFinance API
 ⚡ How to Run the Project
 
 1. Install Dependencies
+
 pip install numpy pandas scipy matplotlib seaborn yfinance pypfopt pyswarms cvxpy statsmodels tensorflow keras
 
 2. Run Jupyter Notebook
+
 jupyter notebook
 
 3. Open and Execute Project-code.ipynb
